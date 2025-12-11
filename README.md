@@ -1,18 +1,3 @@
-<think>
-The user wants me to convert the written content of this README into a logo, image, or animation format. They want it fully animated, attractive, and enhanced. Specifically:
-
-
-## Understanding User Request  
-- The user wants to convert a README's written content into a visual format, such as a logo, image, or animation.  
-- They specifically request it to be fully animated, attractive, and enhanced for better engagement.
-
-## Expanding Visual Features  
-- The user wants an animated graph resembling a daily GitHub contribution chart, emphasizing activity and interactivity.  
-- Themes should include data science, analytics, and professional developer elements for a world-class feel.  
-
-## Considering Implementation  
-- As a text-based AI, I can't create images or animations directly but can describe designs or suggest code like HTML/CSS/JS for animations.
-</think>```markdown
 <!-- ========================================= -->
 <!--       🌌 KRISH GUPTA — README HERO        -->
 <!-- ========================================= -->
